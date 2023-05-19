@@ -19,4 +19,5 @@ Um die API freizuschalten und erste Tests zu machen, verwende ich [Postman](http
 ![image](https://github.com/St0bsel/home-assistant-feller-wiser-rest-integration/assets/16537723/be7a1c6e-f892-4411-acd1-3dda3a5c7e7b)
 > Der Wert "source" muss nicht definiert werden. Sollte die Wiser Konfiguration aber bereits über die eSetup App durchgeführt worden sein, können damit die entsprechenden Daten übernommen werden. Dies macht es einfacher, Loads später zuzuordnen.
 > Weitere Infos in [in meinem Issue](https://github.com/Feller-AG/wiser-api/issues/10)
+Als Respone wird ein Token ausgegeben, das wie oben beschrieben unter den Variabeln beziehungsweise in jedem Request definiert werden muss.
 5.  
